@@ -294,12 +294,12 @@ footer
     border-bottom: 1px solid #ccc;
 }
 
-.content-foo
+.contenido-foo
 {
     text-align: center;
 }
 
-.content-foo h4
+.contenido-foo h4
 {
     font-family: 'open sans';
     font-size: 16px;
@@ -309,7 +309,7 @@ footer
     margin-bottom: 10px;
 }
 
-.content-foo p
+.contenido-foo p
 {
     color: #ccc;
 }
@@ -355,16 +355,16 @@ footer
         border: none;
     }
     
-    .content-foo{
+    .contenido-foo{
         margin-bottom: 20px;
         text-align: center;
     }
     
-    .content-foo h4{
+    .contenido-foo h4{
         border: none;
     }
     
-    .content-foo p{
+    .contenido-foo p{
         color: #ccc;
         border-bottom: 1px solid #f2f2f2;
         padding-bottom: 20px;
